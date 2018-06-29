@@ -50,8 +50,8 @@ public class SegmentationActivity extends CameraActivity implements OnImageAvail
   private static final Logger LOGGER = new Logger();
 
   //Configuration for Segmentation Deeplab
-  private static final String DEEPLAB_MODEL_FILE = "file:///android_asset/quantized_deeplabv3_mnv2_257.pb";
-  private static final int DEEPLAB_INPUT_SIZE = 257;
+  private static final String DEEPLAB_MODEL_FILE = "file:///android_asset/quantized_deeplabv3_mnv2_129.pb";
+  private static final int DEEPLAB_INPUT_SIZE = 129;
   private static final String DEEPLAB_INPUT_NAME = "ImageTensor";
   private static final String DEEPLAB_OUTPUT_NAMES = "SemanticPredictions";
 
