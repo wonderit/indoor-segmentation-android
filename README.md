@@ -54,5 +54,7 @@ may be useful for development purposes.
 
 
 ## Demo GIF
+- crop size : 129 x 129 :
 <img src="sample_images/mnv2_129.gif" width="300px">
+- crop size : 257 x 257 :
 <img src="sample_images/mnv2_257.gif" width="300px">
