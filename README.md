@@ -54,5 +54,5 @@ may be useful for development purposes.
 
 
 ## Demo GIF
-![cropsize 129x129](sample_images/mnv2_129.gif)
-![cropsize 257x257](sample_images/mnv2_257.gif)
+<img src="sample_images/mnv2_129.gif" width="300px">
+<img src="sample_images/mnv2_257.gif" width="300px">
