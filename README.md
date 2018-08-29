@@ -41,6 +41,8 @@ libtensorflow_inference.so is already compiled in the library folder.
  
 See [libs/armeabi-v7a](libs/armeabi-v7a) for more details.
 
+Libraries for arm64-v8a device added. [libs/arm64-v8a](libs/arm64-v8a)
+
 ## Running the Demo
 
 Once the app is installed it can be started via the "TF Segmentation" which have the orange TensorFlow logo as
@@ -49,3 +51,8 @@ their icon.
 While running the activities, pressing the volume keys on your device will
 toggle debug visualizations on/off, rendering additional info to the screen that
 may be useful for development purposes.
+
+
+## Demo GIF
+![cropsize 129x129](sample_images/mnv2_129.gif)
+![cropsize 257x257](sample_images/mnv2_257.gif)

@@ -129,4 +129,14 @@ bazel clean && \
     --host_crosstool_top=@bazel_tools//tools/cpp:toolchain \
     --cpu=armeabi-v7a
 
+# For arm64-v8a
+bazel clean && \
+    bazel build -c opt //tensorflow/contrib/android:libtensorflow_inference.so \
+    --crosstool_top=//external:android/crosstool \
+    --host_crosstool_top=@bazel_tools//tools/cpp:toolchain \
+    --cpu=arm64-v8a
+
 bazel build -c opt --config=armeabi-v7a //tensorflow/examples/android:tensorflow_demo
+
+# For arm64-v8a
+bazel build -c opt --config=arm64-v8a //tensorflow/examples/android:tensorflow_demo
