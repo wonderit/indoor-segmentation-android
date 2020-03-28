@@ -1,6 +1,7 @@
 # Tensorflow Android Deeplabv3 with MobileNetV2 as a Backbone.
 
-This app is for indoor segmentation - indoor semantic image segmentation for Android devices
+This app is for indoor segmentation - indoor semantic segmentation for Android devices
+
 using Deeplabv3 MobileNetV2 trained with ADE20K dataset.
 
 ## Description
