@@ -65,4 +65,4 @@ may be useful for development purposes.
 ## How to Cite
 W. Kim and J. Seok, "Indoor Semantic Segmentation for Robot Navigating on Mobile," 2018 Tenth International Conference on Ubiquitous and Future Networks (ICUFN), Prague, 2018, pp. 22-25. 
 [[paper-link](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8436956&isnumber=8436587)]
-[[pdf-download](https://drive.google.com/file/d/11VyTBy0R5zT7P5STLeZrlsfsiEuiKYga/view)]
+[[pdf-download](https://drive.google.com/file/d/1QuqYF7ZG81BgTxhH7EqhH-SMVl8Q2tIm/view?usp=sharing)]
